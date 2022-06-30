@@ -1,3 +1,6 @@
+** !! **!! This is a fork of the [BarcodeDetector Polyfill](https://github.com/gruhn/barcode-detector) that uses a fork of [jsQR](https://github.com/cozmo/jsQR) that includes the ISO-8859-1 fix by [chatelao](https://github.com/chatelao) !!**
+!! **
+
 # :construction: WIP: BarcodeDetector Polyfill :construction: 
 Spec compliant polyfill of the [Barcode Detection API](https://wicg.github.io/shape-detection-api/#barcode-detection-api).
 It can be used for barcode/QR-code recognition in images from various kinds of 
